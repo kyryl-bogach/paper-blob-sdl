@@ -5,6 +5,8 @@ SDL (_Simple DirectMedia Layer_) is a cross-platform development library designe
 - It basically provides a set of APIs to interact with various devices like graphics hardware, audio, keyboard, mouse, etc.
 - It is written in C programming language and works with C++ and various other languages like c# and python.
 
+There is a Stencyl version of this project that was developed before this one: [Paper Blob - Stencyl](https://github.com/kyryl-bogach/paper-blob-stencyl)
+
 ## Implementation
 This library has been using through C programming language.
 
