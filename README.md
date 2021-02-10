@@ -23,7 +23,7 @@ This library has been using through C programming language.
 * Score system in `Fichero.c` stored in a file `score`.
 
 ## Execution
-**Windows** .exe binaries are in `bin/juego.exe`
+There is a [**Windows** version release](https://github.com/kyryl-bogach/paper-blob-sdl/releases/tag/v1.0). Release version source files are in `bin/`
 
 ## Screenshots
 ### Main game image:
@@ -31,6 +31,9 @@ This library has been using through C programming language.
 
 ### Menu with tutorial:
 ![Menu](imagenes/menu.png)
+
+### Game over screen:
+![Game over screen](imagenes/game_over.png)
 
 ### MVP game sketch:
 ![Sketch](imagenes/sketch.png)
